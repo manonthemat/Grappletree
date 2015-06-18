@@ -1,0 +1,23 @@
+{
+  "name": "marcelo",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Grappletree.com Back End. Named after BJJ practitioner Marcelo Garcia",
+  "author": "Matthias Sieber <matthiasksieber@gmail.com>",
+  "dependencies": {
+    "boom": "^2.8.0",
+    "hapi": "^8.6.1",
+    "joi": "~6.4.3",
+    "lodash": "^3.9.3",
+    "request-promise": "^0.4.2"
+  },
+  "devDependencies": {
+    "lout": "^6.2.2"
+  },
+  "engines": {
+    "node": "0.12"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
